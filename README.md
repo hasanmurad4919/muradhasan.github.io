@@ -2,7 +2,7 @@
 
 ![Screenshot of Personal Webpage](snapshot.JPG)
 
-Welcome to my personal webpage hosted on GitHub. This webpage serves as my digital portfolio and a platform to showcase my work, interests, and more. You can visit it live at https://hasanmurad4919.github.io/webpage/.
+Welcome to my personal webpage hosted on GitHub. This webpage serves as my digital portfolio and a platform to showcase my work, interests, and more. You can visit it live at https://hasanmurad4919.github.io/webpage
 
 ## Table of Contents
 - [Bio](#about)
